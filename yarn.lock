@@ -70,11 +70,6 @@ fancybox@^3.0.1:
   resolved "https://registry.yarnpkg.com/fancybox/-/fancybox-3.0.1.tgz#13f6927449157ed026c69e78c2ba5bf0f1da9af7"
   integrity sha512-HZ57O6j5Zk4Uvusd5pNUgWi7CCjKx+HFlCzjMPeRJ//0bQWUK+xVpkn3EzXWJate4ZSKNFP9kU2l49MP1g+oow==
 
-fullpage.js@^4.0.19:
-  version "4.0.25"
-  resolved "https://registry.yarnpkg.com/fullpage.js/-/fullpage.js-4.0.25.tgz#06f77235d7269271aaaca0c6c8216958b4dd6dc7"
-  integrity sha512-bfct64FIHWPSthZXjNETosPeC0QXkJ7OgVmQw1UFSZkGL54VogtmbCoTHH3v+g9h5+UjpMVHAaGNCA4hJ5JRGw==
-
 hamburgers@^1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/hamburgers/-/hamburgers-1.2.1.tgz#0649907688335dee3d3d248c4c7ac88351527eb0"
@@ -84,11 +79,6 @@ inputmask@^5.0.8:
   version "5.0.9"
   resolved "https://registry.yarnpkg.com/inputmask/-/inputmask-5.0.9.tgz#7bf4e83f5e199c88c0edf28545dc23fa208ef4be"
   integrity sha512-s0lUfqcEbel+EQXtehXqwCJGShutgieOaIImFKC/r4reYNvX3foyrChl6LOEvaEgxEbesePIrw1Zi2jhZaDZbQ==
-
-jquery-match-height@^0.7.2:
-  version "0.7.2"
-  resolved "https://registry.yarnpkg.com/jquery-match-height/-/jquery-match-height-0.7.2.tgz#f8d9f3ba5314daab109cf07408674be204be5f0e"
-  integrity sha512-qSyC0GBc4zUlgBcxfyyumJSVUm50T6XuJEIz59cKaI28VXMUT95mZ6KiIjhMIMbG8IiJhh65FtQO1XD42TAcwg==
 
 jquery.scrollbar@^0.2.11:
   version "0.2.11"
