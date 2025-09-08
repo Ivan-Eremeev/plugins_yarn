@@ -8,6 +8,7 @@
     "aos": "^2.3.4",
     "autosize": "^6.0.1",
     "bootstrap": "^5.2.3",
+    "choices.js": "^11.1.0",
     "droply": "^0.0.3",
     "fancybox": "^3.0.1",
     "gsap": "^3.12.5",
